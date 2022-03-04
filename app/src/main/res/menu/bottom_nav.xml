@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="Map"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile_user_svgrepo_com"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        android:orderInCategory="3"/>
+</menu>
